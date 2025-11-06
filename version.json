@@ -1,0 +1,17 @@
+{
+    "latestVersion": "1.4",
+    "latestVersionCode": 1,
+    "apkUrl": "https://github.com/Majhool/torrserver-android-tv/raw/refs/heads/main/StremTorr.apk",
+    "releaseNotes": {
+        "en": [
+            "Add change aspect ratio button feature.",
+            "Increase focus level",
+            "Fix minor bugs."
+        ],
+        "ar": [
+            "إضافة ميزة تغيير نسبة العرض إلى الارتفاع.",
+            "زيادة مستوى التركيز",
+            "إصلاح أخطاء طفيفة."
+        ]
+    }
+}
