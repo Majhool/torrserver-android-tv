@@ -16,6 +16,22 @@
     },
     "history": [
         {
+            "version": "2.0",
+            "versionCode": 2,
+            "releaseNotes": {
+                "ar": [
+                    "تغيير شكل المشغل لاعطاء تجربة أفضل",
+                    "إضافة دعم لتأخير الترجمة",
+                    "إصلاح مشاكل في التشغيل"
+                ],
+                "en": [
+                    "Changed the player UI for a better experience",
+                    "Added support for subtitle delay",
+                    "Fixed playback issues"
+                ]
+            }
+        },
+        {
             "version": "1.6",
             "versionCode": 1,
             "releaseNotes": {
