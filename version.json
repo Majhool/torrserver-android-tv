@@ -1,17 +1,35 @@
 {
-    "latestVersion": "1.6",
-    "latestVersionCode": 1,
+    "latestVersion": "2.0",
+    "latestVersionCode": 2,
     "apkUrl": "https://github.com/Majhool/torrserver-android-tv/raw/refs/heads/main/StremTorr.apk",
     "releaseNotes": {
-        "en": [
-            "Add change aspect ratio button feature.",
-            "Increase focus level",
-            "Fix minor bugs."
-        ],
         "ar": [
-            "إضافة ميزة تغيير نسبة العرض إلى الارتفاع.",
-            "زيادة مستوى التركيز",
-            "إصلاح أخطاء طفيفة."
+            "تغيير شكل المشغل لاعطاء تجربة أفضل",
+            "إضافة دعم لتأخير الترجمة",
+            "إصلاح مشاكل في التشغيل"
+        ],
+        "en": [
+            "Changed the player UI for a better experience",
+            "Added support for subtitle delay",
+            "Fixed playback issues"
         ]
-    }
+    },
+    "history": [
+        {
+            "version": "1.6",
+            "versionCode": 1,
+            "releaseNotes": {
+                "ar": [
+                    "إضافة ميزة تغيير نسبة العرض إلى الارتفاع.",
+                    "زيادة مستوى التركيز",
+                    "إصلاح أخطاء طفيفة."
+                ],
+                "en": [
+                    "Add change aspect ratio button feature.",
+                    "Increase focus level",
+                    "Fix minor bugs."
+                ]
+            }
+        }
+    ]
 }
